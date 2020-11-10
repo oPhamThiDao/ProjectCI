@@ -1,0 +1,2 @@
+# ProjectCI
+check setup CI
